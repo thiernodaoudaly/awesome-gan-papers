@@ -1,12 +1,7 @@
 # Awesome GAN Papers 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/TON_USERNAME/awesome-gan-papers?style=social)](https://github.com/TON_USERNAME/awesome-gan-papers/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/TON_USERNAME/awesome-gan-papers?style=social)](https://github.com/TON_USERNAME/awesome-gan-papers/network)
-[![License](https://img.shields.io/github/license/TON_USERNAME/awesome-gan-papers)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Commit](https://img.shields.io/github/last-commit/TON_USERNAME/awesome-gan-papers)](https://github.com/TON_USERNAME/awesome-gan-papers/commits)
-[![Made in Africa](https://img.shields.io/badge/Made%20in-Africa-green)]()
 
 ## Table of Contents
 
